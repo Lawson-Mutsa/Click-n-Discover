@@ -4013,7 +4013,7 @@ ol {
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
 	/*ADDED CSS FOR MOBILE RESPONSIVENESS ON SLIDES*/
 	.hero-items .single-hero-items {
-        height: 500px; 
+        height: 700px; 
         padding: 100px 25px 70px; 
     }
 	.inner-header .advanced-search .category-btn {
@@ -4110,7 +4110,7 @@ ol {
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
 	.hero-items .single-hero-items {
-        height: 450px;
+        height: 650px;
         background-size: cover; /* Ensures full image display */
         background-position: center center;
         padding: 90px 20px 60px; /* Adjusts text spacing */
@@ -4286,7 +4286,7 @@ ol {
 	}
 	.hero-items .single-hero-items {
 		
-		height: 400px; /* Keeps it proportional */
+		height: 600px; /* Keeps it proportional */
         background-size: contain; /* Ensures full image is visible */
         background-position: center center;
         padding: 80px 15px 50px;
@@ -4424,7 +4424,7 @@ ol {
 		padding-right: 15px;
 	}
 	.hero-items .single-hero-items {
-        height: 350px; /* Keeps a good height */
+        height: 550px; /* Keeps a good height */
         background-size: contain;
         background-position: center center;
         padding: 60px 10px 40px;
