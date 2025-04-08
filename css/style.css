@@ -138,18 +138,6 @@ ol {
 	position: relative;
 }
 
-.section-title h2:before {
-	position: absolute;
-	left: 0;
-	right: 0;
-	bottom: -14px;
-	width: 80px;
-	height: 3px;
-	background: #e7ab3c;
-	content: "";
-	margin: 0 auto;
-}
-
 .section-title p {
 	color: #6e6e6e;
 }
@@ -1569,6 +1557,7 @@ ol {
 .footer-section {
 	background: #191919;
 	padding-top: 75px;
+	
 }
 .footer-widget ul {
     padding-left: 0;
